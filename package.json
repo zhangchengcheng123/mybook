@@ -1,0 +1,19 @@
+{
+  "name": "mybook",
+  "version": "1.0.0",
+  "description": "制作电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangchengcheng123/mybook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangchengcheng123/mybook/issues"
+  },
+  "homepage": "https://github.com/zhangchengcheng123/mybook#readme"
+}
